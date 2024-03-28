@@ -1,0 +1,78 @@
+.name-color{
+    color: rgb(207, 64, 152);
+    font-size: 80px;
+
+}
+.half-width{
+    margin-top: 200px;
+    
+    
+}
+
+    
+.link-button{
+     color: white;
+     background-color: rgb(207, 64, 152);
+    font-weight: 700;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+body{
+    margin: 0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.half-width{
+    width: 37%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;   
+}
+.half-width img{
+    width: 100%;
+
+
+}
+.top-banner{
+    background-image: url("top-banner.png");
+    background-repeat: no-repeat;
+
+}
+section{
+    height: 500px;
+    padding-bottom: 500px; 
+}
+.bio-area{
+    background-image: url("bio-bannner.png");
+}
+.latest-work{
+    margin-top: 100px;
+    text-align: center;
+    
+}
+.latest-work img{
+    width: 25%;
+    margin: 20px 10px;
+}
+.Latest-work{
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: 5%;
+}
+.cv-button{
+    color: white;
+     background-color: rgb(207, 64, 152);
+    font-weight: 700;
+    text-decoration: none;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+.center-text{
+    text-align: center;
+    margin: 0%;
+    background-image: url("footer-bg.png");
+}
+p{
+    color: dimgray;
+}
